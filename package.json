@@ -1,0 +1,15 @@
+{
+    "name": "github-extension-pack",
+    "displayName": "GitHub Extension Pack",
+    "description": "A collection of extension that ease working with GitHub repositories.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "publisher.extensionName"
+    ]
+}
