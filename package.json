@@ -2,7 +2,7 @@
     "name": "github-extension-pack",
     "publisher": "niem94",
     "displayName": "GitHub Extension Pack",
-    "description": "A collection of extension that ease working with GitHub repositories.",
+    "description": "A collection of extensions that ease working with GitHub repositories.",
     "icon": "resources/icon.png",
     "repository": {
         "type": "git",
