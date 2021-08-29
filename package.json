@@ -10,6 +10,7 @@
         "Extension Packs"
     ],
     "extensionPack": [ 
-        "publisher.extensionName"
+        "github.vscode-pull-request-github",
+        "github.remotehub"
     ]
 }
