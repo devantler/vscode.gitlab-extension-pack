@@ -8,7 +8,7 @@
         "type": "git",
         "url": "https://github.com/devantler/vscode.gitlab-extension-pack"
     },
-    "version": "1.0.0",
+    "version": "1.0.1",
     "engines": {
         "vscode": "^1.59.0"
     },
@@ -16,7 +16,7 @@
         "Extension Packs"
     ],
     "extensionPack": [ 
-        "devantler.git-extension-pack",
+        "devantler.git-extension-pack-new",
         "gitlab.gitlab-workflow"
     ]
 }
