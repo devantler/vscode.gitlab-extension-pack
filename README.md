@@ -1,3 +1,3 @@
 # README
 
-A collection of extensions that ease working with GitLab repositories.
+A collection of extensions that ease working with GitLab.
